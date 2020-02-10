@@ -9,7 +9,6 @@
   "license": "",
   "dependencies": {
     "cypress": "^3.8.3",
-    "cypress-cucumber-preprocessor": "^2.0.1",
     "cypress-promise": "^1.0.2"
   },
   "repository": {
